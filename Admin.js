@@ -9,3 +9,5 @@ class Admin extends User {
         return `Curso de {nomeDoCurso}, criado com ${vagas} vagas!`
     }
 }
+
+export default Admin
